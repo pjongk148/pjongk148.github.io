@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: 박종혁
-title: 주니어 백엔드 개발자
+title: Java 백엔드 개발자
 email: pjongk148@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: https://velog.io/@pjongk148
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -46,7 +46,7 @@ github_username:  pjongk148
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile-image.jpg
 about_content: | # this will include new lines to allow paragraphs
   자기소개 문구를 여기 써주세용
 

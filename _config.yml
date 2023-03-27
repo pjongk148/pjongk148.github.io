@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: 박종혁
-title: Java 백엔드 개발자
+title: Junior Back-end Developer
 email: pjongk148@gmail.com
-website: https://velog.io/@pjongk148
+Blog: https://velog.io/@pjongk148
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,9 +48,9 @@ github_username:  pjongk148
 # about_title: About Me
 about_profile_image: images/profile-image.jpg
 about_content: | # this will include new lines to allow paragraphs
-  자기소개 문구를 여기 써주세용
+  적극적인 피드백과 의사소통을 통한 작업 능률 향상을 지향하는 신입 백엔드 개발자 박종혁입니다.
+  
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
@@ -70,7 +70,7 @@ content:
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          도서나눔 서비스 북빌리지
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)

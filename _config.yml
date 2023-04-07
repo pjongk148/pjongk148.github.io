@@ -48,10 +48,8 @@ github_username:  pjongk148
 # about_title: About Me
 about_profile_image: images/profile-image.jpg
 about_content: | # this will include new lines to allow paragraphs
-  적극적인 피드백과 의사소통을 통한 작업 능률 향상을 지향하는 신입 백엔드 개발자 박종혁입니다.
-  Java, Spring Boot 프레임워크를 주로 이용하는 백엔드 개발자 박종혁입니다. 
-  본 전공은 해양과학이었으나
-  졸업 이후 Java, Spring Boot 를 통한 웹 애플리케이션 개발 교육을 이수하였고 이를 토대로 팀 프로젝트를 진행하였습니다.
+  적극적인 의사소통과 피드백을 통한 작업 능률 향상을 지향하는 신입 백엔드 개발자 박종혁입니다.
+  본 전공은 해양과학이었으나 졸업 이후 Java, Spring Boot 를 통한 웹 애플리케이션 개발 교육을 이수하였고 이를 토대로 팀 프로젝트를 진행하였습니다.
   협업의 중요성과 즐거움을 알고, 적극적인 피드백과 의사소통을 통한 작업 능률 향상을 지향합니다.
   또한 꾸준함을 통한 성장의 즐거움을 알기에 당일 학습한 내용을 커밋하거나 블로깅하고자 노력하고 있습니다.
   
@@ -98,7 +96,6 @@ content:
         sub_title: 해양과학
         description: | # this will include new lines to allow paragraphs
           - 2018 3-2 학기 성적우수장학생 수상
-          - 
           
 
   - title: Certificates

@@ -68,7 +68,7 @@ content:
         quote: >
 
         description: | # this will include new lines to allow paragraphs
-        프론트엔드,백엔드 협업을 통한 StackOverFlow 웹사이트 구현
+          프론트엔드,백엔드 협업을 통한 StackOverFlow 웹사이트 구현
 
         link: github.com/codestates-seb/seb41_pre_025
         # link_text: Project Website

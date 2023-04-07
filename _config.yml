@@ -100,7 +100,7 @@ content:
 
   - title: Certificates
     layout: list
-  content:
+    content:
     - layout: left
       title: OPIc
       caption: 2022.09.11 취득

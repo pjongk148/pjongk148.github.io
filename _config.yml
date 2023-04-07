@@ -83,10 +83,9 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
 
         description: | # this will include new lines to allow paragraphs
-          도서나눔 서비스 북빌리지
+          - 도서나눔 서비스 북빌리지
         link: github.com/codestates-seb/seb41_main_015
         # link_text: Project Websitㅊㄷe
         additional_links:

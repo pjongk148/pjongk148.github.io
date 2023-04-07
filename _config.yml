@@ -101,11 +101,11 @@ content:
   - title: Certificates
     layout: list
     content:
-    - layout: left
-      title: OPIc
-      caption: 2022.09.11 취득
-      description: | # this will include new lines to allow paragraphs
-        IM2
+      - layout: left
+        title: OPIc
+        caption: 2022.09.11 취득
+        description: | # this will include new lines to allow paragraphs
+          - IM2
 
 # Footer
 footer_show_references: true

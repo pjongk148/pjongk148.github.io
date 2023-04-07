@@ -60,13 +60,25 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+          title: StackOverFlow
+          caption: 2022.12.16 ~ 2023.01.02
+            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+          quote: >
+
+          description: | # this will include new lines to allow paragraphs
+          프론트엔드,백엔드 협업을 통한 StackOverFlow 웹사이트 구현
+
+          link: github.com/codestates-seb/seb41_pre_025
+          # link_text: Project Website
+          additional_links:
+            - title: stackoverflow-clone project
+              icon: fab fa-github
+              url: github.com/sproogen/modern-resume-theme
+      - layout: left
         title: 도서나눔 서비스 북빌리지
-        link: github.com/codestates-seb/seb41_main_015
-        # link_text: Project Websitㅊㄷe
-        additional_links:
-          - title:  bookvillage-project
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        caption: 2023.01.03 - 2023.02.02
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -74,6 +86,12 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           도서나눔 서비스 북빌리지
+        link: github.com/codestates-seb/seb41_main_015
+        # link_text: Project Websitㅊㄷe
+        additional_links:
+          - title:  bookvillage-project
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
